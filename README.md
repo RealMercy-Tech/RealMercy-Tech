@@ -20,7 +20,7 @@ I love solving complex problems and turning ideas into reliable backend systems
    - **Others:** Problem solving, API designs, server-side logic
 
      ## Projects
-     > _Project will be addad here as i build_
+     - Payment dashboard [https://payment-dashboard-three.vercel.app]
 
      ## Contact Me
      - Github: [https://github.com/RealMercy-Tech]
